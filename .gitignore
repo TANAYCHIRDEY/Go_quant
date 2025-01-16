@@ -1,0 +1,6 @@
+build/
+.vscode/
+test.cpp
+test.py
+test.txt
+test
